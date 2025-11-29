@@ -82,8 +82,8 @@
 
 ```
 # 克隆项目
-git clone <项目地址>
-cd server-monitor-dashboard1
+git clone [<项目地址>](https://github.com/1586774837/AAA-Final-Version.git)
+cd AAA-Final-Version
 
 # 运行部署脚本
 chmod +x scripts/deploy.sh
@@ -319,6 +319,7 @@ docker-compose -f docker/docker-compose.yml logs -f
 - 移动端APP支持
 
   数据导出功能
+
 
 
 
