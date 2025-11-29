@@ -52,15 +52,14 @@
 
 ### 监控大屏
 
-![cab72e32-a2a5-496f-b190-8a5b5a9064f8](C:\Users\15867\Pictures\cab72e32-a2a5-496f-b190-8a5b5a9064f8.png)
+![监控大屏界面1](./screenshots/cab72e32-a2a5-496f-b190-8a5b5a9064f8.png)
 
-![image-20251129011709281](C:\Users\15867\Pictures\image-20251129011709281.png)
+![监控大屏界面2](./screenshots/image-20251129011709281.png)
 
 ### 主机管理
 
 
-
-![image-20251129011804494](C:\Users\15867\Pictures\image-20251129011804494.png)
+![主机管理界面](./screenshots/image-20251129011804494.png)
 
 ## 🚀 快速开始
 
@@ -312,4 +311,5 @@ docker-compose -f docker/docker-compose.yml logs -f
 - 移动端APP支持
 
   数据导出功能
+
 
