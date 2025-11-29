@@ -51,13 +51,11 @@
 ## 📸 界面预览
 
 ### 主机管理
-
 ![界面1](./screenshots/cab72e32-a2a5-496f-b190-8a5b5a9064f8.png)
 
 ![界面2](./screenshots/image-20251129011709281.png)
 
 ### 监控大屏
-
 
 ![界面](./screenshots/image-20251129011804494.png)
 
@@ -311,6 +309,7 @@ docker-compose -f docker/docker-compose.yml logs -f
 - 移动端APP支持
 
   数据导出功能
+
 
 
 
