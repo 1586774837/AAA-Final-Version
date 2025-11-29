@@ -57,15 +57,15 @@
 
 ## 📸 界面预览
 
-### 监控大屏
-
-![image-20251129011639433](C:\Users\15867\AppData\Roaming\Typora\typora-user-images\image-20251129011639433.png)
-
-![image-20251129011709281](C:\Users\15867\AppData\Roaming\Typora\typora-user-images\image-20251129011709281.png)
-
 ### 主机管理
 
-![image-20251129011804494](C:\Users\15867\AppData\Roaming\Typora\typora-user-images\image-20251129011804494.png)
+![大屏界面1](./screenshots/cab72e32-a2a5-496f-b190-8a5b5a9064f8.png)
+
+![大屏界面2](./screenshots/image-20251129011709281.png)
+
+### 监控大屏
+
+![界面](./screenshots/image-20251129011804494.png)
 
 
 
@@ -319,4 +319,5 @@ docker-compose -f docker/docker-compose.yml logs -f
 - 移动端APP支持
 
   数据导出功能
+
 
