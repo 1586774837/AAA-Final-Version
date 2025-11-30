@@ -17,7 +17,6 @@
 - 技术栈
 -  系统架构
 - 故障排除
-- 未来规划
 
 ## 系统简介
 
@@ -298,19 +297,7 @@ docker-compose -f docker/docker-compose.yml logs -f
 ./scripts/deploy.sh status
 ```
 
-## 🔮 未来规划
 
-- 邮件/短信告警功能
-
-- 历史数据图表分析
-
-- 多用户权限管理
-
-- 监控模板自定义
-
-- 移动端APP支持
-
-  数据导出功能
 
 
 
